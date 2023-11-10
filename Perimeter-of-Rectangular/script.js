@@ -4,6 +4,7 @@
 // -1-
 // Create a function that takes length and width and finds the perimeter of a rectangle.
 alert("You can calculate Perimeter of rectangular via this page!")
+alert("Open DevTools(F12) and go to Console to see your result")
 let length;
 let width;
 function findPerimeter(length,width) {
@@ -20,4 +21,3 @@ function findPerimeter(length,width) {
     }
 }
 findPerimeter()
-alert("Open DevTools and go to Console to see your result")
