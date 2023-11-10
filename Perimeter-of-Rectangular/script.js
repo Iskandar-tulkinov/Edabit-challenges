@@ -20,3 +20,4 @@ function findPerimeter(length,width) {
     }
 }
 findPerimeter()
+alert("Open DevTools and go to Console to see your result")
